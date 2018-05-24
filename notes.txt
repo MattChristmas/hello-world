@@ -1,0 +1,9 @@
+24.05.18 - Reproducible research with R
+
+Activate git: navigate into working directory and type git init. After restarting RStudio it will sense the Git repository.
+
+learning how to use github: https://guides.github.com/activities/hello-world/
+
+Uploading from rstudio to github:
+
+	https://www.r-bloggers.com/rstudio-and-github/
